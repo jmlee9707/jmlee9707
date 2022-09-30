@@ -25,6 +25,7 @@
 <br />
 <br />
 
+<!--
 <h3>✨ sub skills ✨</h3>
 <br>
 <img src="https://img.shields.io/badge/processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white">
@@ -34,6 +35,7 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 <br/>
+-->
 
 <h3>💬 Tools ✨</h3>
 
