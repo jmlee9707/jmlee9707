@@ -20,9 +20,5 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmlee9707">
     <p> - solved in Java ✨ </p>
   </div>
-   <div>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jennyDev7">
-        <p> - solved in Node.js ✨ </p>
-  </div>
 </div>
 
