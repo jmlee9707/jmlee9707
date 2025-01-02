@@ -14,11 +14,12 @@
 
 
 <br />
-
+<!--
 <div style="display:flex; justify-content:space-around;">
   <div>
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmlee9707">
     <p> - solved in Java ✨ </p>
   </div>
 </div>
+-->
 
