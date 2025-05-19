@@ -7,6 +7,7 @@
 </div>
 
 ### 📚 Education & Career 
+- 현대오토에버 (Hyundai-autoever) : 2025.05 ~ ing
 - 티맥스 A&C 그룹 (TmaxAI) : 2023.01 ~ 2025.01
 - 삼성 청년 SW 아카데미 (a.k.a. SSAFY) 7th : 2022.01 - 2022.12
 - 숭실대학교 IT대학 글로벌미디어학부 전공 : 2017.03 ~ 2022.02
